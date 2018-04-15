@@ -1,5 +1,5 @@
 # Computer Graphics and Vision Courses
-computer graphics and vision related courses
+computer graphics and vision courses
 
 ## Computational Photography
 * Portland Computational Photography [[link]](http://web.cecs.pdx.edu/~fliu/courses/cs510/index.htm)
