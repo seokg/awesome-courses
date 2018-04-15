@@ -12,6 +12,6 @@ computer graphics and vision related courses
 * ETH 3D Vision [[link]](http://www.cvg.ethz.ch/teaching/3dvision/courseSchedule.php)
 
 ## Deep Learning
-* EPFL Deep Learning [[link]] (https://documents.epfl.ch/users/f/fl/fleuret/www/dlc/)
+* EPFL Deep Learning [[link]](https://documents.epfl.ch/users/f/fl/fleuret/www/dlc/)
 * DGIST [[link]](https://github.com/InfolabAI/DeepLearning)
 * Stanford [[link]](http://cs231n.stanford.edu/)
