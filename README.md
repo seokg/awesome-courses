@@ -15,3 +15,4 @@ computer graphics and vision courses
 * EPFL Deep Learning [[link]](https://documents.epfl.ch/users/f/fl/fleuret/www/dlc/)
 * DGIST [[link]](https://github.com/InfolabAI/DeepLearning)
 * Stanford [[link]](http://cs231n.stanford.edu/)
+* Stanford all AI courses [[link]](http://ai.stanford.edu/courses/)
