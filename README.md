@@ -16,3 +16,7 @@ computer graphics and vision courses
 * DGIST [[link]](https://github.com/InfolabAI/DeepLearning)
 * Stanford [[link]](http://cs231n.stanford.edu/)
 * Stanford all AI courses [[link]](http://ai.stanford.edu/courses/)
+
+
+## Machine Learning
+* UC Berkeley AI [[link]](http://ai.berkeley.edu/home.html)
