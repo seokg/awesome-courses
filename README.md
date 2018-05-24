@@ -4,7 +4,8 @@ computer graphics and vision courses
 ## Computational Photography
 * Portland Computational Photography [[link]](http://web.cecs.pdx.edu/~fliu/courses/cs510/index.htm)
 * CMU Computational Photography [[link]](http://graphics.cs.cmu.edu/courses/15-463/2007_fall/][[link]][http://graphics.cs.cmu.edu/courses/15-463/2010_spring/)
-
+* Stanford Computational Photography (Marc Levoy
+) [[link]](https://sites.google.com/site/marclevoylectures/)
 ## Computer Vision
 * Stanford [[link]](http://vision.stanford.edu/teaching/cs131_fall1718/index.html)
 * Cornell CS664 Computer Vision [[link]](http://www.cs.cornell.edu/courses/cs664/2008sp/)
