@@ -21,3 +21,6 @@ computer graphics and vision courses
 
 ## Machine Learning
 * UC Berkeley AI [[link]](http://ai.berkeley.edu/home.html)
+
+## ETC
+* CMU Human Motion Modeling and Analysis [[link]](http://www.cs.cmu.edu/~yaser/Fall2012_15869.html)
