@@ -20,7 +20,7 @@ computer graphics and vision courses
 * Stanford CNN [[link]](http://cs231n.stanford.edu/)
 * Stanford Unsupervised Learning [[link]](https://sites.google.com/view/berkeley-cs294-158-sp19/home)
 * Stanford all AI courses [[link]](http://ai.stanford.edu/courses/)
-
+* Toronto Differentiable Inference and Generative Model [[link]](https://www.cs.toronto.edu/~duvenaud/courses/csc2541/index.html)
 
 ## Machine Learning
 * UC Berkeley AI [[link]](http://ai.berkeley.edu/home.html)
