@@ -7,6 +7,9 @@ computer graphics, computer vision, and machine learning courses
 * Stanford Computational Photography (Marc Levoy
 ) [[link]](https://sites.google.com/site/marclevoylectures/) [[link2]](http://graphics.stanford.edu/courses/cs178-09/)
 
+## Computer Graphics
+* Stanford all Graphics courses [[link]](https://graphics.stanford.edu/courses/)
+
 ## Computer Vision
 * Stanford [[link]](http://vision.stanford.edu/teaching/cs131_fall1718/index.html)
 * Cornell CS664 Computer Vision [[link]](http://www.cs.cornell.edu/courses/cs664/2008sp/)
