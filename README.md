@@ -1,4 +1,4 @@
-# Computer Graphics, Computer Vision and Machine Learning Courses
+# Courses
 computer graphics and vision courses
 
 ## Computational Photography
