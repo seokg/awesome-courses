@@ -9,7 +9,7 @@ computer graphics, computer vision, and machine learning courses
 
 ## Computer Graphics
 * Stanford all Graphics courses [[link]](https://graphics.stanford.edu/courses/)
-
+* Scratchapixel 2.0 [[link]](https://www.scratchapixel.com/index.php?redirect)
 ## Computer Vision
 * Stanford [[link]](http://vision.stanford.edu/teaching/cs131_fall1718/index.html)
 * Cornell CS664 Computer Vision [[link]](http://www.cs.cornell.edu/courses/cs664/2008sp/)
