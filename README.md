@@ -16,6 +16,7 @@ computer graphics, computer vision, and machine learning courses
 * Oxford Vision [[link]](http://www.robots.ox.ac.uk/~az/lectures/index.html)
 * UCF CAP5415 Computer Vision [[link]](http://www.cs.ucf.edu/~mtappen/cap5415/)
 * ETH 3D Vision [[link]](http://www.cvg.ethz.ch/teaching/3dvision/courseSchedule.php)
+* KCCV 2019 presentation [[link]](https://drive.google.com/drive/folders/1_oFtWc3gWO0blv3CuvwkKX3IVyYIZacf?fbclid=IwAR2wNicqj96Ai9r7HK__I205C0Mj-9FZMgjtBFCgVmxO4lbpzyZxjXvuFHo)
 
 ## Deep Learning
 * EPFL Deep Learning [[link]](https://documents.epfl.ch/users/f/fl/fleuret/www/dlc/)
