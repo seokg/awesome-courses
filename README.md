@@ -17,7 +17,7 @@ computer graphics, computer vision, and machine learning courses
 * UCF CAP5415 Computer Vision [[link]](http://www.cs.ucf.edu/~mtappen/cap5415/)
 * ETH 3D Vision [[link]](http://www.cvg.ethz.ch/teaching/3dvision/courseSchedule.php)
 * KCCV 2019 presentation [[link]](https://drive.google.com/drive/folders/1_oFtWc3gWO0blv3CuvwkKX3IVyYIZacf?fbclid=IwAR2wNicqj96Ai9r7HK__I205C0Mj-9FZMgjtBFCgVmxO4lbpzyZxjXvuFHo)
-
+* CS205A Mathematical Methods for Robotics, Vision, and Graphics [[link]](https://graphics.stanford.edu/courses/cs205a-13-fall/schedule.html)
 ## Deep Learning
 * EPFL Deep Learning [[link]](https://documents.epfl.ch/users/f/fl/fleuret/www/dlc/)
 * DGIST [[link]](https://github.com/InfolabAI/DeepLearning)
