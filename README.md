@@ -1,6 +1,11 @@
 # Courses
 computer graphics, computer vision, and machine learning courses
 
+
+## Workshop
+* CreativeAI [[link]](https://geometry.cs.ucl.ac.uk/creativeai/)
+* Computer Vision for Fashion, Art and Design [[link]](https://sites.google.com/view/eccvfashion)
+
 ## Computational Photography
 * Portland Computational Photography [[link]](http://web.cecs.pdx.edu/~fliu/courses/cs510/index.htm)
 * CMU Computational Photography [[link]](http://graphics.cs.cmu.edu/courses/15-463/2007_fall/][[link]][http://graphics.cs.cmu.edu/courses/15-463/2010_spring/)
