@@ -4,7 +4,7 @@ computer graphics, computer vision, and machine learning courses
 
 ## Workshop
 * CreativeAI [[link]](https://geometry.cs.ucl.ac.uk/creativeai/)
-* Computer Vision for Fashion, Art and Design [[link]](https://sites.google.com/view/eccvfashion)
+* Computer Vision for Fashion, Art and Design [[eccv2018]](https://sites.google.com/view/eccvfashion) [[iccv2019]](https://sites.google.com/view/cvcreative/)
 
 ## Computational Photography
 * Portland Computational Photography [[link]](http://web.cecs.pdx.edu/~fliu/courses/cs510/index.htm)
