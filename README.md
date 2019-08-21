@@ -23,6 +23,8 @@ computer graphics, computer vision, and machine learning courses
 * ETH 3D Vision [[link]](http://www.cvg.ethz.ch/teaching/3dvision/courseSchedule.php)
 * KCCV 2019 presentation [[link]](https://drive.google.com/drive/folders/1_oFtWc3gWO0blv3CuvwkKX3IVyYIZacf?fbclid=IwAR2wNicqj96Ai9r7HK__I205C0Mj-9FZMgjtBFCgVmxO4lbpzyZxjXvuFHo)
 * CS205A Mathematical Methods for Robotics, Vision, and Graphics [[link]](https://graphics.stanford.edu/courses/cs205a-13-fall/schedule.html)
+* UW [[link]](https://pjreddie.com/courses/computer-vision/)
+
 ## Deep Learning
 * EPFL Deep Learning [[link]](https://documents.epfl.ch/users/f/fl/fleuret/www/dlc/)
 * DGIST [[link]](https://github.com/InfolabAI/DeepLearning)
@@ -38,3 +40,4 @@ computer graphics, computer vision, and machine learning courses
 * CMU Human Motion Modeling and Analysis [[link]](http://www.cs.cmu.edu/~yaser/Fall2012_15869.html)
 * Stanford Applied Linear Algebra [[link]](https://sites.google.com/view/berkeley-cs294-158-sp19/home)
 * Stanford VR [[link]](https://stanford.edu/class/ee267/syllabus.html)
+* CS205A-Mathematical-Methods-for-Robotics--Vision--and-Graphics [[link]](https://github.com/Doraemonzzz/CS205A-Mathematical-Methods-for-Robotics--Vision--and-Graphics)
