@@ -22,7 +22,7 @@ computer graphics, computer vision, and machine learning courses
 * UCF CAP5415 Computer Vision [[link]](http://www.cs.ucf.edu/~mtappen/cap5415/)
 * ETH 3D Vision [[link]](http://www.cvg.ethz.ch/teaching/3dvision/courseSchedule.php)
 * KCCV 2019 presentation [[link]](https://drive.google.com/drive/folders/1_oFtWc3gWO0blv3CuvwkKX3IVyYIZacf?fbclid=IwAR2wNicqj96Ai9r7HK__I205C0Mj-9FZMgjtBFCgVmxO4lbpzyZxjXvuFHo)
-* CS205A Mathematical Methods for Robotics, Vision, and Graphics [[link]](https://graphics.stanford.edu/courses/cs205a-13-fall/schedule.html)
+* CS205A Mathematical Methods for Robotics, Vision, and Graphics [[link]](https://graphics.stanford.edu/courses/cs205a-13-fall/schedule.html)[[code]](https://www.cs.toronto.edu/~duvenaud/courses/csc2541/index.html)
 * UW [[link]](https://pjreddie.com/courses/computer-vision/)
 
 ## Deep Learning
@@ -31,7 +31,7 @@ computer graphics, computer vision, and machine learning courses
 * Stanford CNN [[link]](http://cs231n.stanford.edu/)
 * Stanford Unsupervised Learning [[link]](https://sites.google.com/view/berkeley-cs294-158-sp19/home)
 * Stanford all AI courses [[link]](http://ai.stanford.edu/courses/)
-* Toronto Differentiable Inference and Generative Model [[link]](https://www.cs.toronto.edu/~duvenaud/courses/csc2541/index.html)
+* Toronto Differentiable Inference and Generative Model 
 
 ## Machine Learning
 * UC Berkeley AI [[link]](http://ai.berkeley.edu/home.html)
@@ -40,4 +40,3 @@ computer graphics, computer vision, and machine learning courses
 * CMU Human Motion Modeling and Analysis [[link]](http://www.cs.cmu.edu/~yaser/Fall2012_15869.html)
 * Stanford Applied Linear Algebra [[link]](https://sites.google.com/view/berkeley-cs294-158-sp19/home)
 * Stanford VR [[link]](https://stanford.edu/class/ee267/syllabus.html)
-* CS205A-Mathematical-Methods-for-Robotics--Vision--and-Graphics [[link]](https://github.com/Doraemonzzz/CS205A-Mathematical-Methods-for-Robotics--Vision--and-Graphics)
