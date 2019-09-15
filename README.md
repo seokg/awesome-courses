@@ -40,3 +40,4 @@ computer graphics, computer vision, and machine learning courses
 * CMU Human Motion Modeling and Analysis [[link]](http://www.cs.cmu.edu/~yaser/Fall2012_15869.html)
 * Stanford Applied Linear Algebra [[link]](https://sites.google.com/view/berkeley-cs294-158-sp19/home)
 * Stanford VR [[link]](https://stanford.edu/class/ee267/syllabus.html)
+* Univ. Wisconsin-Madison STATS[[link]](https://github.com/rasbt/stat479-machine-learning-fs19?fbclid=IwAR2enpn5S9o2mwqL0_dpgC1cSmRmTaSP-QSGA5kO5AIrWY4kDUkXhH1YPUw)
