@@ -24,6 +24,7 @@ computer graphics, computer vision, and machine learning courses
 * KCCV 2019 presentation [[link]](https://drive.google.com/drive/folders/1_oFtWc3gWO0blv3CuvwkKX3IVyYIZacf?fbclid=IwAR2wNicqj96Ai9r7HK__I205C0Mj-9FZMgjtBFCgVmxO4lbpzyZxjXvuFHo)
 * CS205A Mathematical Methods for Robotics, Vision, and Graphics [[link]](https://graphics.stanford.edu/courses/cs205a-13-fall/schedule.html)[[code]](https://www.cs.toronto.edu/~duvenaud/courses/csc2541/index.html)
 * UW [[link]](https://pjreddie.com/courses/computer-vision/)
+* Portland Computer Vision [[link]](http://web.cecs.pdx.edu/~fliu/courses/cs410/index.htm)
 
 ## Deep Learning
 * EPFL Deep Learning [[link]](https://documents.epfl.ch/users/f/fl/fleuret/www/dlc/)
