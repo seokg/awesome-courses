@@ -3,6 +3,7 @@ computer graphics, computer vision, and machine learning courses
 
 
 ## Workshop
+* GNN [[link]](http://cse.msu.edu/~mayao4/tutorials/aaai2020/?fbclid=IwAR11OVtkSjXKFtA06St2c6wZxQGmXJN2CfYdyoYSuWxmo7SSFfdh5k38dd8)
 * CreativeAI [[link]](https://geometry.cs.ucl.ac.uk/creativeai/)
 * Computer Vision for Fashion, Art and Design [[eccv2018]](https://sites.google.com/view/eccvfashion) [[iccv2019]](https://sites.google.com/view/cvcreative/)
 
@@ -15,7 +16,9 @@ computer graphics, computer vision, and machine learning courses
 ## Computer Graphics
 * Stanford all Graphics courses [[link]](https://graphics.stanford.edu/courses/)
 * Scratchapixel 2.0 [[link]](https://www.scratchapixel.com/index.php?redirect)
+
 ## Computer Vision
+* HDU Multi-View Geometry [[link]](https://www.youtube.com/playlist?list=PLoJdZ7VvEiRNQwM3pcwHWwLQutIYMs4KK&fbclid=IwAR3sVumTxv2lWyksGql_KU6ZlwdjhpvtvYAetJkJvQ9CNZO96YghRVK6zvw)
 * Stanford [[link]](http://vision.stanford.edu/teaching/cs131_fall1718/index.html)
 * Cornell CS664 Computer Vision [[link]](http://www.cs.cornell.edu/courses/cs664/2008sp/)
 * Oxford Vision [[link]](http://www.robots.ox.ac.uk/~az/lectures/index.html)
@@ -27,12 +30,13 @@ computer graphics, computer vision, and machine learning courses
 * Portland Computer Vision [[link]](http://web.cecs.pdx.edu/~fliu/courses/cs410/index.htm)
 
 ## Deep Learning
+* Stanford Deep Multi-Task and Meta Learning [[link]](https://www.youtube.com/playlist?list=PLoROMvodv4rMC6zfYmnD7UG3LVvwaITY5&fbclid=IwAR1uNWlGfrjN-OCea3UPMeNB7XTTGpCPCJdKJBm1WfvBACZ9VAciXfvdbW4)
 * EPFL Deep Learning [[link]](https://documents.epfl.ch/users/f/fl/fleuret/www/dlc/)
 * DGIST [[link]](https://github.com/InfolabAI/DeepLearning)
 * Stanford CNN [[link]](http://cs231n.stanford.edu/)
 * Stanford Unsupervised Learning [[link]](https://sites.google.com/view/berkeley-cs294-158-sp19/home)
 * Stanford all AI courses [[link]](http://ai.stanford.edu/courses/)
-* Toronto Differentiable Inference and Generative Model 
+* Toronto Differentiable Inference and Generative Model  [[link]](https://www.cs.toronto.edu/~duvenaud/courses/csc2541/index.html)
 
 ## Machine Learning
 * UC Berkeley AI [[link]](http://ai.berkeley.edu/home.html)
