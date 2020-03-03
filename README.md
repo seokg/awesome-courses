@@ -17,6 +17,7 @@ computer graphics, computer vision, and machine learning courses
 * Stanford all Graphics courses [[link]](https://graphics.stanford.edu/courses/)
 * Stanford CS348K [[link]](http://graphics.stanford.edu/courses/cs348v-18-winter/)
 * Scratchapixel 2.0 [[link]](https://www.scratchapixel.com/index.php?redirect)
+* Cat like Coding [[link]](https://catlikecoding.com)
 
 ## Computer Vision
 * HDU Multi-View Geometry [[link]](https://www.youtube.com/playlist?list=PLoJdZ7VvEiRNQwM3pcwHWwLQutIYMs4KK&fbclid=IwAR3sVumTxv2lWyksGql_KU6ZlwdjhpvtvYAetJkJvQ9CNZO96YghRVK6zvw)
