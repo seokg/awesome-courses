@@ -32,13 +32,14 @@ computer graphics, computer vision, and machine learning courses
 * Portland Computer Vision [[link]](http://web.cecs.pdx.edu/~fliu/courses/cs410/index.htm)
 
 ## Deep Learning
-* Stanford Deep Multi-Task and Meta Learning [[link]](https://www.youtube.com/playlist?list=PLoROMvodv4rMC6zfYmnD7UG3LVvwaITY5&fbclid=IwAR1uNWlGfrjN-OCea3UPMeNB7XTTGpCPCJdKJBm1WfvBACZ9VAciXfvdbW4)
 * EPFL Deep Learning [[link]](https://documents.epfl.ch/users/f/fl/fleuret/www/dlc/)
-* DGIST [[link]](https://github.com/InfolabAI/DeepLearning)
+* DGIST [[link]](https://github.com/InfolabAI/DeepLearning
+* University Amsterdam [[link]](https://mlvu.github.io)
 * Stanford CNN [[link]](http://cs231n.stanford.edu/)
 * Stanford Unsupervised Learning [[link]](https://sites.google.com/view/berkeley-cs294-158-sp19/home)
 * Stanford Deep Generative Models CS236 [[link]](https://deepgenerativemodels.github.io/)
 * Stanford Machine Learning with Graphs CS224W [[link]](http://web.stanford.edu/class/cs224w/)
+* Stanford Deep Multi-Task and Meta Learning [[link]](https://www.youtube.com/playlist?list=PLoROMvodv4rMC6zfYmnD7UG3LVvwaITY5&fbclid=IwAR1uNWlGfrjN-OCea3UPMeNB7XTTGpCPCJdKJBm1WfvBACZ9VAciXfvdbW4)
 * Stanford all AI courses [[link]](http://ai.stanford.edu/courses/)
 * Toronto Differentiable Inference and Generative Model  [[link]](https://www.cs.toronto.edu/~duvenaud/courses/csc2541/index.html)
 
