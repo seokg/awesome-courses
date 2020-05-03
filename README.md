@@ -1,59 +1,60 @@
 # Courses
 computer graphics, computer vision, and machine learning courses
 
+## Computational Photography
+* `CS178` Stanford Computational Photography (Marc Levoy) [[link]](https://sites.google.com/site/marclevoylectures/) [[link2]](http://graphics.stanford.edu/courses/cs178-09/)
+* CMU Computational Photography [[link]](http://graphics.cs.cmu.edu/courses/15-463/2007_fall/][[link]][http://graphics.cs.cmu.edu/courses/15-463/2010_spring/)
+* `CS510` Portland Computational Photography [[link]](http://web.cecs.pdx.edu/~fliu/courses/cs510/index.htm)
+
+## Computer Graphics
+* Stanford all Graphics courses [[link]](https://graphics.stanford.edu/courses/)
+* `CS348K` Stanford [[link]](http://graphics.stanford.edu/courses/cs348v-18-winter/)
+* Scratchapixel 2.0 [[link]](https://www.scratchapixel.com/index.php?redirect)
+* Cat like Coding [[link]](https://catlikecoding.com)
+
+## Computer Vision
+* `CS131` Stanford Computer Vision: Foundations and Applications [[link]](http://vision.stanford.edu/teaching/cs131_fall1718/index.html)[[link2]](http://cs131.stanford.edu)
+* `CS205A` Mathematical Methods for Robotics, Vision, and Graphics [[link]](https://graphics.stanford.edu/courses/cs205a-13-fall/schedule.html)[[code]](https://www.cs.toronto.edu/~duvenaud/courses/csc2541/index.html)
+* `CS664` Cornell Computer Vision [[link]](http://www.cs.cornell.edu/courses/cs664/2008sp/)
+* Oxford Vision [[link]](http://www.robots.ox.ac.uk/~az/lectures/index.html)
+* `CAP5415` UCF Computer Vision [[link]](http://www.cs.ucf.edu/~mtappen/cap5415/)
+* ETH 3D Vision [[link]](http://www.cvg.ethz.ch/teaching/3dvision/courseSchedule.php)
+* UW [[link]](https://pjreddie.com/courses/computer-vision/)
+* `CS410` Portland Computer Vision [[link]](http://web.cecs.pdx.edu/~fliu/courses/cs410/index.htm)
+* HDU Multi-View Geometry [[link]](https://www.youtube.com/playlist?list=PLoJdZ7VvEiRNQwM3pcwHWwLQutIYMs4KK&fbclid=IwAR3sVumTxv2lWyksGql_KU6ZlwdjhpvtvYAetJkJvQ9CNZO96YghRVK6zvw)
+* `KCCV2019` presentation [[link]](https://drive.google.com/drive/folders/1_oFtWc3gWO0blv3CuvwkKX3IVyYIZacf?fbclid=IwAR2wNicqj96Ai9r7HK__I205C0Mj-9FZMgjtBFCgVmxO4lbpzyZxjXvuFHo)
+
+## Deep Learning
+* `CS231n` Stanford CNN [[link]](http://cs231n.stanford.edu/)
+* `CS294` Stanford Unsupervised Learning [[link]](https://sites.google.com/view/berkeley-cs294-158-sp19/home)
+* `CS236` Stanford Deep Generative Models [[link]](https://deepgenerativemodels.github.io/)
+* `CS224W` Stanford Machine Learning with Graphs [[link]](http://web.stanford.edu/class/cs224w/)
+* Stanford Deep Multi-Task and Meta Learning [[link]](https://www.youtube.com/playlist?list=PLoROMvodv4rMC6zfYmnD7UG3LVvwaITY5&fbclid=IwAR1uNWlGfrjN-OCea3UPMeNB7XTTGpCPCJdKJBm1WfvBACZ9VAciXfvdbW4)
+* Stanford all AI courses [[link]](http://ai.stanford.edu/courses/)
+* `CS2541` Toronto Differentiable Inference and Generative Model  [[link]](https://www.cs.toronto.edu/~duvenaud/courses/csc2541/index.html)
+* EPFL Deep Learning [[link]](https://documents.epfl.ch/users/f/fl/fleuret/www/dlc/)
+* University Amsterdam [[link]](https://mlvu.github.io)
+* DGIST [[link]](https://github.com/InfolabAI/DeepLearning)
+
+## Machine Learning
+* UC Berkeley AI [[link]](http://ai.berkeley.edu/home.html)
+* `CS205L` Stanford Continuous Mathematical Methods with an Emphasis on Machine Learning [[link]](http://web.stanford.edu/class/cs205l/)
+* `CS228` Stanford Probabilistic Graphical Models: Principles and Techniques  [[link]](https://cs228.stanford.edu/)
+* UBC Machine Learning [[link]](https://www.youtube.com/playlist?list=PLE6Wd9FR--EdyJ5lbFl8UuGjecvVw66F6)
+
 
 ## Workshop
 * GNN [[link]](http://cse.msu.edu/~mayao4/tutorials/aaai2020/?fbclid=IwAR11OVtkSjXKFtA06St2c6wZxQGmXJN2CfYdyoYSuWxmo7SSFfdh5k38dd8)
 * CreativeAI [[link]](https://geometry.cs.ucl.ac.uk/creativeai/)
 * Computer Vision for Fashion, Art and Design [[eccv2018]](https://sites.google.com/view/eccvfashion) [[iccv2019]](https://sites.google.com/view/cvcreative/)
 
-## Computational Photography
-* Portland Computational Photography [[link]](http://web.cecs.pdx.edu/~fliu/courses/cs510/index.htm)
-* CMU Computational Photography [[link]](http://graphics.cs.cmu.edu/courses/15-463/2007_fall/][[link]][http://graphics.cs.cmu.edu/courses/15-463/2010_spring/)
-* Stanford Computational Photography (Marc Levoy
-) [[link]](https://sites.google.com/site/marclevoylectures/) [[link2]](http://graphics.stanford.edu/courses/cs178-09/)
-
-## Computer Graphics
-* Stanford all Graphics courses [[link]](https://graphics.stanford.edu/courses/)
-* Stanford CS348K [[link]](http://graphics.stanford.edu/courses/cs348v-18-winter/)
-* Scratchapixel 2.0 [[link]](https://www.scratchapixel.com/index.php?redirect)
-* Cat like Coding [[link]](https://catlikecoding.com)
-
-## Computer Vision
-* HDU Multi-View Geometry [[link]](https://www.youtube.com/playlist?list=PLoJdZ7VvEiRNQwM3pcwHWwLQutIYMs4KK&fbclid=IwAR3sVumTxv2lWyksGql_KU6ZlwdjhpvtvYAetJkJvQ9CNZO96YghRVK6zvw)
-* Stanford Computer Vision: Foundations and Applications CS131 [[link]](http://vision.stanford.edu/teaching/cs131_fall1718/index.html)[[link2]](http://cs131.stanford.edu)
-* Cornell CS664 Computer Vision [[link]](http://www.cs.cornell.edu/courses/cs664/2008sp/)
-* Oxford Vision [[link]](http://www.robots.ox.ac.uk/~az/lectures/index.html)
-* UCF CAP5415 Computer Vision [[link]](http://www.cs.ucf.edu/~mtappen/cap5415/)
-* ETH 3D Vision [[link]](http://www.cvg.ethz.ch/teaching/3dvision/courseSchedule.php)
-* KCCV 2019 presentation [[link]](https://drive.google.com/drive/folders/1_oFtWc3gWO0blv3CuvwkKX3IVyYIZacf?fbclid=IwAR2wNicqj96Ai9r7HK__I205C0Mj-9FZMgjtBFCgVmxO4lbpzyZxjXvuFHo)
-* CS205A Mathematical Methods for Robotics, Vision, and Graphics [[link]](https://graphics.stanford.edu/courses/cs205a-13-fall/schedule.html)[[code]](https://www.cs.toronto.edu/~duvenaud/courses/csc2541/index.html)
-* UW [[link]](https://pjreddie.com/courses/computer-vision/)
-* Portland Computer Vision [[link]](http://web.cecs.pdx.edu/~fliu/courses/cs410/index.htm)
-
-## Deep Learning
-* EPFL Deep Learning [[link]](https://documents.epfl.ch/users/f/fl/fleuret/www/dlc/)
-* DGIST [[link]](https://github.com/InfolabAI/DeepLearning
-* University Amsterdam [[link]](https://mlvu.github.io)
-* Stanford CNN [[link]](http://cs231n.stanford.edu/)
-* Stanford Unsupervised Learning [[link]](https://sites.google.com/view/berkeley-cs294-158-sp19/home)
-* Stanford Deep Generative Models CS236 [[link]](https://deepgenerativemodels.github.io/)
-* Stanford Machine Learning with Graphs CS224W [[link]](http://web.stanford.edu/class/cs224w/)
-* Stanford Deep Multi-Task and Meta Learning [[link]](https://www.youtube.com/playlist?list=PLoROMvodv4rMC6zfYmnD7UG3LVvwaITY5&fbclid=IwAR1uNWlGfrjN-OCea3UPMeNB7XTTGpCPCJdKJBm1WfvBACZ9VAciXfvdbW4)
-* Stanford all AI courses [[link]](http://ai.stanford.edu/courses/)
-* Toronto Differentiable Inference and Generative Model  [[link]](https://www.cs.toronto.edu/~duvenaud/courses/csc2541/index.html)
-
-## Machine Learning
-* UC Berkeley AI [[link]](http://ai.berkeley.edu/home.html)
-* Stanford  Continuous Mathematical Methods with an Emphasis on Machine Learning CS205L [[link]](http://web.stanford.edu/class/cs205l/)
-* Stanford Probabilistic Graphical Models: Principles and Techniques CS 228 [[link]](https://cs228.stanford.edu/)
-* UBC Machine Learning [[link]](https://www.youtube.com/playlist?list=PLE6Wd9FR--EdyJ5lbFl8UuGjecvVw66F6)
 ## ETC
+* `EE263` Stanford Introduction to Linear Dynamical Systems [[link]](http://ee263.stanford.edu)
 * Immesive Linear Algebra [[link]](http://immersivemath.com/ila/index.html)
 * CMU Human Motion Modeling and Analysis [[link]](http://www.cs.cmu.edu/~yaser/Fall2012_15869.html)
-* Stanford Applied Linear Algebra [[link]](https://sites.google.com/view/berkeley-cs294-158-sp19/home)
-* Stanford VR [[link]](https://stanford.edu/class/ee267/syllabus.html)
-* Univ. Wisconsin-Madison STATS[[link]](https://github.com/rasbt/stat479-machine-learning-fs19?fbclid=IwAR2enpn5S9o2mwqL0_dpgC1cSmRmTaSP-QSGA5kO5AIrWY4kDUkXhH1YPUw)
+* `CS294` Stanford Applied Linear Algebra [[link]](https://sites.google.com/view/berkeley-cs294-158-sp19/home)
+* `EE267` Stanford VR [[link]](https://stanford.edu/class/ee267/syllabus.html)
+* `STAT479` Univ. Wisconsin-Madison STATS [[link]](https://github.com/rasbt/stat479-machine-learning-fs19?fbclid=IwAR2enpn5S9o2mwqL0_dpgC1cSmRmTaSP-QSGA5kO5AIrWY4kDUkXhH1YPUw)
 * 10 Free Online Courses on ML [[link]](https://twitter.com/chipro/status/1157772112876060672?fbclid=IwAR1p_hMoxuPfq_L7z4F5_XDavCo1QDE68Iop8ge8WG2l-YwRoavmoGSmpQ4)
 
 
