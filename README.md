@@ -1,4 +1,4 @@
-# Courses
+# Awesome Courses
 computer graphics, computer vision, and machine learning courses
 
 ## Computational Photography
