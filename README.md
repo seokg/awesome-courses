@@ -20,6 +20,7 @@ computer graphics, computer vision, and machine learning courses
 * `CAP5415` UCF Computer Vision [[link]](http://www.cs.ucf.edu/~mtappen/cap5415/)
 * ETH 3D Vision [[link]](http://www.cvg.ethz.ch/teaching/3dvision/courseSchedule.php)
 * UW [[link]](https://pjreddie.com/courses/computer-vision/)
+* UW 2009wi [[link]](https://courses.cs.washington.edu/courses/cse455/09wi/)
 * `CS410` Portland Computer Vision [[link]](http://web.cecs.pdx.edu/~fliu/courses/cs410/index.htm)
 * HDU Multi-View Geometry [[link]](https://www.youtube.com/playlist?list=PLoJdZ7VvEiRNQwM3pcwHWwLQutIYMs4KK&fbclid=IwAR3sVumTxv2lWyksGql_KU6ZlwdjhpvtvYAetJkJvQ9CNZO96YghRVK6zvw)
 * `KCCV2019` presentation [[link]](https://drive.google.com/drive/folders/1_oFtWc3gWO0blv3CuvwkKX3IVyYIZacf?fbclid=IwAR2wNicqj96Ai9r7HK__I205C0Mj-9FZMgjtBFCgVmxO4lbpzyZxjXvuFHo)
