@@ -14,7 +14,7 @@ computer graphics, computer vision, and machine learning courses
 
 ## Computer Vision
 * `CS131` Stanford Computer Vision: Foundations and Applications [[link]](http://vision.stanford.edu/teaching/cs131_fall1718/index.html)[[link2]](http://cs131.stanford.edu)
-* `CS231A` Stanford Computer Vision, From 3D Reconstruction to Recognition[[]](https://web.stanford.edu/class/cs231a)
+* `CS231A` Stanford Computer Vision, From 3D Reconstruction to Recognition [[link]](https://web.stanford.edu/class/cs231a)
 * `CS231M` Stanford Mobile Computer Vision [[link]](https://web.stanford.edu/class/cs231m/)
 * `CS205A` Mathematical Methods for Robotics, Vision, and Graphics [[link]](https://graphics.stanford.edu/courses/cs205a-13-fall/schedule.html)[[code]](https://www.cs.toronto.edu/~duvenaud/courses/csc2541/index.html)
 * `CS664` Cornell Computer Vision [[link]](http://www.cs.cornell.edu/courses/cs664/2008sp/)
