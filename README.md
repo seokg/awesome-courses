@@ -7,6 +7,7 @@ computer graphics, computer vision, and machine learning courses
 * `CS510` Portland Computational Photography [[link]](http://web.cecs.pdx.edu/~fliu/courses/cs510/index.htm)
 
 ## Computer Graphics
+* CMU 15-462/662 Computer Graphics [[video]](https://www.youtube.com/watch?v=W6yEALqsD7k&list=PL9_jI1bdZmz2emSh0UQ5iOdT2xRHFHL7E) 
 * Stanford all Graphics courses [[link]](https://graphics.stanford.edu/courses/)
 * `CS348K` Stanford [[link]](http://graphics.stanford.edu/courses/cs348v-18-winter/)
 * Scratchapixel 2.0 [[link]](https://www.scratchapixel.com/index.php?redirect)
